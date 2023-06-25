@@ -1,6 +1,4 @@
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+Our Social account: [![Roblox][1.2][1], [![Discord][2.2][2], or [!Twitter[3.3][3].
 
 <!-- Icons -->
 
