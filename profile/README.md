@@ -1,4 +1,4 @@
-## Our Social account: ![Roblox][1.2], ![Discord][2.2], or ![Twitter][3.2].
+## Our Social account: ![Roblox][1.2][1], ![Discord][2.2][2], or ![Twitter][3.2][3].
 
 <!-- Icons -->
 
