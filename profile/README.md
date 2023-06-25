@@ -11,7 +11,6 @@
                 alt="follow on Twitter"></a>
 </a>
 </div>
-)
 
 
 ## Our Social account: [![Roblox][1.2]][1].
