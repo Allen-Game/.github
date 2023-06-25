@@ -2,9 +2,9 @@
 
 <!-- Icons -->
 
-[1.2]: https://tr.rbxcdn.com/0c10714e082325b3941c0ae805638975/150/150/Image/Png
-[2.2]: https://th.bing.com/th?id=ABT5128B1A30A5F2F5117B5EA69393FB19FBA0881969CB0BEE948297A3A04E241B6&w=80&h=80&o=6&dpr=2&pid=5.1
-[3.2]: https://i.imgur.com/LS08Auh_d.png
+[1.2]: https://tr.rbxcdn.com/0c10714e082325b3941c0ae805638975/60/60/Image/Png
+[2.2]: https://th.bing.com/th?id=ABT5128B1A30A5F2F5117B5EA69393FB19FBA0881969CB0BEE948297A3A04E241B6&w=60&h=60
+[3.2]: https://abs.twimg.com/favicons/favicon.ico
 
 <!-- Links to your social media accounts -->
 
