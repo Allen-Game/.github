@@ -11,14 +11,3 @@
                 alt="follow on Twitter"></a>
 </a>
 </div>
-
-
-## Our Social account: [![Roblox][1.2]][1].
-
-<!-- Icons -->
-
-[1.2]: https://tr.rbxcdn.com/0c10714e082325b3941c0ae805638975/60/60/Image/Png
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.roblox.com/groups/10391051/Alan-International-Studio#!/about
