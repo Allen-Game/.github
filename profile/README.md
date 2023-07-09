@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://www.roblox.com/groups/10391051/Alan-International-Studio#!/about"><img src="https://tr.rbxcdn.com/0c10714e082325b3941c0ae805638975/150/150/Image/Png"alt="discord.js" /></a>
+		<a href="https://www.roblox.com/groups/10391051/Alan-International-Studio#!/about"><img src="https://tr.rbxcdn.com/0c10714e082325b3941c0ae805638975/150/150/Image/Png"alt="Roblox Group" /></a>
 	</p>
 	<br />
 	<p>
